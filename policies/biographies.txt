@@ -1,0 +1,163 @@
+Editors must take particular care when adding information about living persons to any Wikipedia page, including but not limited to articles, talk pages, project pages, and drafts.[a] Such material requires a high degree of sensitivity, and must adhere strictly to all applicable laws in the United States, to this policy, and to Wikipedia's three core content policies:
+Neutral point of view (NPOV)
+Verifiability (V)
+No original research (NOR)
+Wikipedia must get the article right. Be very firm about the use of high-quality, reliable sources. All quotations and any material challenged or likely to be challenged must be supported by an inline citation to a reliable, published source. Contentious material about living (or, in some cases, recently deceased) persons that is unsourced or poorly sourced—whether the material is negative, positive, neutral, or just questionable—must be removed immediately and without waiting for discussion.[1] Users who persistently or egregiously violate this policy may be blocked from editing.
+Biographies of living persons ("BLPs") must be written conservatively and with regard for the subject's privacy. Wikipedia is an encyclopedia, not a tabloid: it is not Wikipedia's job to be sensationalist, or to be the primary vehicle for the spread of titillating claims about people's lives; the possibility of harm to living subjects must always be considered when exercising editorial judgment. This policy applies to any living person mentioned in a BLP, whether or not that person is the subject of the article, and to material about living persons in other articles and on other pages, including talk pages.[b] The burden of evidence rests with the editor who adds or restores the material.
+
+
+Writing style
+Tone
+BLPs should be written responsibly, cautiously, and in a dispassionate tone, avoiding both understatement and overstatement. Articles should document in a non-partisan manner what reliable secondary sources have published about the subjects, and in some circumstances what the subjects have published about themselves. Summarize how actions and achievements are characterized by reliable sources without giving undue weight to recent events. Do not label people with contentious labels, loaded language, or terms that lack precision, unless a person is commonly described that way in reliable sources. Instead use clear, direct language and let facts alone do the talking.
+Balance
+Criticism and praise should be included if they can be sourced to reliable secondary sources, so long as the material is presented responsibly, conservatively, and in a disinterested tone. Do not give disproportionate space to particular viewpoints; the views of small minorities should not be included at all. Care must be taken with article structure to ensure the overall presentation and section headings are broadly neutral. Beware of claims that rely on guilt by association, and biased, malicious or overly promotional content.
+The idea expressed in Eventualism—that every Wikipedia article is a work in progress, and that it is therefore okay for an article to be temporarily unbalanced because it will eventually be brought into shape—does not apply to biographies. Given their potential impact on biography subjects' lives, biographies must be fair to their subjects at all times.
+Attack pages
+Further information: Wikipedia:Attack page and Wikipedia:Criteria for speedy deletion § G10
+Pages that are unsourced and negative in tone, especially when they appear to have been created primarily to disparage the subject, should be deleted at once if there is no policy-compliant version to revert to; see § Summary deletion, creation prevention, and courtesy blanking, below. Non-administrators should tag them with {{db-attack}} or {{db-negublp}}. Creation of such pages, especially when repeated or in bad faith, is grounds for immediate blocking.
+
+
+Reliable sources
+Challenged or likely to be challenged
+Wikipedia's sourcing policy, Verifiability, says that all quotations and any material challenged or likely to be challenged must be attributed to a reliable, published source using an inline citation; material not meeting this standard may be removed. This policy extends that principle, adding that contentious material about living persons that is unsourced or poorly sourced should be removed immediately and without discussion. This applies whether the material is negative, positive, neutral, or just questionable, and whether the material is in a biography or in some other article. Such material should not be added to an article when the only available sources are tabloid journalism. When material is both verifiable and noteworthy, it will have appeared in more reliable sources.
+Avoid misuse of primary sources
+Exercise extreme caution in using primary sources. Do not use trial transcripts and other court records, or other public documents, to support assertions about a living person. Do not use public records that include personal details, such as date of birth, home value, traffic citations, vehicle registrations, and home or business addresses. Where primary-source material has been discussed by a reliable secondary source, it may be acceptable to rely on it to augment the secondary source, subject to the restrictions of this policy, no original research, and the other sourcing policies.[c]
+
+
+Self-published sources
+Avoid self-published sources
+Never use self-published sources—including but not limited to books, zines, websites, blogs, podcasts, and social network posts—as sources of material about a living person, unless written or published by the person themselves. "Self-published blogs" in this context refers to personal and group blogs. It does not refer to a reputable organisation publishing material about who it employs or to whom and why it grants awards, for example. Some news organizations host online columns that they call blogs, and these may be acceptable as sources so long as the writers are professionals and the blog is subject to the newspaper's full editorial control. Posts left by readers are never acceptable as sources. See § Images below for our policy on self-published images.
+Using the subject as a self-published source
+There are living persons who publish material about themselves, such as through press releases or personal websites. Such material may be used as a source only if:
+it is not unduly self-serving;
+it does not involve claims about third parties;[d]
+it does not involve claims about events not directly related to the subject;
+there is no reasonable doubt as to its authenticity; and
+the article is not based primarily on such sources.
+
+
+Avoid gossip and feedback loops
+Avoid repeating gossip. Ask yourself whether the source is reliable; whether the material is being presented as true; and whether, even if true, it is relevant to a disinterested article about the subject. Be wary of relying on sources that use weasel words and that attribute material to anonymous sources. Also beware of circular reporting, in which material in a Wikipedia article is picked up by a source, which is later cited in the Wikipedia article to support the original edit.
+Remove contentious material that is unsourced or poorly sourced
+Remove immediately any contentious material about a living person that:
+is unsourced or poorly sourced;
+is an original interpretation or analysis of a source, or a synthesis of sources (see also Wikipedia:No original research);
+relies on self-published sources, unless written by the subject of the BLP (see § Using the subject as a self-published source, above); or
+relies on sources that fail in some other way to meet verifiability standards.
+Note that, although the three-revert rule does not apply to such removals, what counts as exempt under BLP can be controversial. Editors who find themselves in edit wars over potentially defamatory material about living persons should consider raising the matter at the biographies of living persons noticeboard instead of relying on the exemption.
+Administrators are allowed to enforce the removal of clear BLP violations with page protection or by blocking the violator(s), even if they have been editing the article themselves or are in some other way involved. In less clear cases they should request the attention of an uninvolved administrator at the administrators' noticeboard/Incidents page. See § Role of administrators, below.
+
+
+Further reading, External links, and See also
+External links about living persons, whether in BLPs or elsewhere, are held to a higher standard than for other topics. Questionable or self-published sources should not be included in the "Further reading" or "External links" sections of BLPs, and, when including such links in other articles, make sure the material linked to does not violate this policy. Self-published sources written or published by the subject of a BLP may be included in the "Further reading" or "External links" sections of that BLP with caution (see § Using the subject as a self-published source, above). In general, do not link to websites that contradict the spirit of this policy or violate the external links guideline. Where that guideline is inconsistent with this or any other policy, the policies prevail.
+"See also" links, whether placed in their own section or in a note within the text, should not be used to imply any contentious labeling, association, or claim regarding a living person, and must adhere to Wikipedia's policy of no original research.
+Presumption in favor of privacy
+Avoid victimization
+When writing about a person noteworthy only for one or two events, including every detail can lead to problems—even when the material is well sourced. When in doubt, biographies should be pared back to a version that is completely sourced, neutral, and on-topic. This is of particular importance when dealing with living individuals whose notability stems largely or entirely from being victims of another's actions. Wikipedia editors must not act, intentionally or otherwise, in a way that amounts to participating in or prolonging the victimization.
+
+
+Public figures
+In the case of public figures, there will be a multitude of reliable published sources, and BLPs should simply document what these sources say. If an allegation or incident is noteworthy, relevant, and well documented, it belongs in the article—even if it is negative and the subject dislikes all mention of it. If you cannot find multiple reliable third-party sources documenting the allegation or incident, leave it out.
+Example: "John Doe had a messy divorce from Jane Doe." Is the divorce important to the article, and was it published by third-party reliable sources? If not, leave it out. If so, avoid use of "messy" and stick to the facts: "John Doe and Jane Doe divorced."
+Example: A politician is alleged to have had an affair. It is denied, but multiple major newspapers publish the allegations, and there is a public scandal. The allegation belongs in the biography, citing those sources. It should state only that the politician was alleged to have had the affair, not that the affair actually occurred.
+If the subject has denied such allegations, their denial(s) should be reported too.
+People who are relatively unknown
+Many Wikipedia articles contain material on people who are not well known, regardless of whether they are notable enough for their own article. In such cases, exercise restraint and include only material relevant to the person's notability, focusing on high-quality secondary sources. Material published by the subject may be used, but with caution (see § Using the subject as a self-published source, above). Material that may adversely affect a person's reputation should be treated with special care; in many jurisdictions, repeating a defamatory claim is actionable, and there are additional protections for subjects who are not public figures.
+
+
+Privacy of personal information and using primary sources
+With identity theft a serious ongoing concern, many people regard their full names and dates of birth as private. Wikipedia includes full names and dates of birth that have been widely published by reliable sources, or by sources linked to the subject such that it may reasonably be inferred that the subject does not object to the details being made public. If a subject complains about our inclusion of their date of birth, or the person is borderline notable, err on the side of caution and simply list the year, provided that there is a reliable source for it. In a similar vein, articles should not include postal addresses, e-mail addresses, telephone numbers, or other contact information for living persons, although links to websites maintained by the subject are generally permitted. See § Avoid misuse of primary sources regarding the misuse of primary sources to obtain personal information about subjects.
+The standard for inclusion of personal information of living persons is higher than mere existence of a reliable source that could be verified.[2]
+If multiple independent reliable sources state differing years or dates of birth in conflict, include all birth dates/years for which a reliable source exists, clearly noting discrepancies. In this situation, editors must not include only one date/year which they consider "most likely", or include merely a single date from one of two or more reliable sources. Original research must not be used to extrapolate the date of birth.[3] (e.g. Joan Crawford#Notes)
+A verified social media account of an article subject saying about themselves something along the lines of "today is my 50th birthday" may fall under self-published sources for purposes of reporting a full date of birth. It may be usable if there is no reason to doubt it.[4]
+If you see personal information such as phone numbers, addresses, account numbers, etc. in a BLP or anywhere on Wikipedia, edit the page to remove it and contact the oversight team so that they can evaluate it and possibly remove it from the page history. To reduce the chances of triggering the Streisand effect, use a bland/generic edit summary and do not mention that you will be requesting Oversight.
+
+
+Privacy of names
+Caution should be applied when identifying individuals who are discussed primarily in terms of a single event. When the name of a private individual has not been widely disseminated or has been intentionally concealed, such as in certain court cases or occupations, it is often preferable to omit it, especially when doing so does not result in a significant loss of context. When deciding whether to include a name, its publication in secondary sources other than news media, such as scholarly journals or the work of recognized experts, should be afforded greater weight than the brief appearance of names in news stories. Consider whether the inclusion of names of living private individuals who are not directly involved in an article's topic adds significant value.[e]
+The presumption in favor of privacy is strong in the case of family members of articles' subjects and other loosely involved, otherwise low-profile persons. The names of any immediate, former, or significant family members or any significant relationship of the subject of a BLP may be part of an article, if reliably sourced, subject to editorial discretion that such information is relevant to a reader's complete understanding of the subject.[f] Names of family members who are not also notable public figures must be removed from an article if they are not properly sourced.
+Deadnaming and misgendering of transgender people
+Whether a deadname or misgendering of a living person is removed is a matter of editorial judgment if it appears in reliable sources. In addition, whether revision deletion is used is based on administrative discretion, though suppression may be appropriate in some circumstances if there are privacy concerns. Both decisions are context-dependent.[5]
+
+
+Subjects notable only for one event
+Wikipedia is not news, or an indiscriminate collection of information. Being in the news does not in itself mean that someone should be the subject of a Wikipedia article. We generally should avoid having an article on a person when each of three conditions is met:
+Reliable sources cover the person only in the context of a single event.
+The person otherwise remains, and is likely to remain, a low-profile individual. Biographies in these cases can give undue weight to the event and conflict with neutral point of view. In such cases, it is usually better to merge the information and redirect the person's name to the event article.
+The event is not significant or the individual's role was either not substantial or not well documented. John Hinckley Jr., for example, has a separate article because the single event he was associated with, the Reagan assassination attempt, was significant, and his role was both substantial and well documented.
+The significance of an event or the individual's role is indicated by how persistent the coverage is in reliable sources. It is important for editors to understand two clear differentiations of the people notable for only one event guideline (WP:BIO1E) when compared with this policy (WP:BLP1E): WP:BLP1E should be applied only to biographies of living people, or those who have recently died, and to biographies of low-profile individuals.
+In addition, some subject-specific notability guidelines, such as Wikipedia:Notability (sports), provide criteria that may support the notability of certain individuals who are known chiefly for one event.
+
+
+People accused of crime
+A living person accused of a crime is presumed innocent until convicted by a court of law. Accusations, investigations, arrests and charges do not amount to a conviction. For individuals who are not public figures—that is, individuals not covered by § Public figures—editors must seriously consider not including material[e]—in any article—that suggests the person has committed or is accused of having committed a crime, unless a conviction has been secured for that crime.
+If different judicial proceedings result in seemingly contradictory outcomes that do not overrule each other,[g] include sufficient explanatory information.
+Use in continued disputes 
+Wikipedia articles concerning living persons may include material—where relevant, properly weighted, and reliably sourced—about controversies or disputes in which the article subject has been involved. Wikipedia is not a forum provided for parties to off-wiki disputes to continue their hostilities. Experience has shown that misusing Wikipedia to perpetuate legal, political, social, literary, scholarly, or other disputes is harmful to the subjects of biographical articles, to other parties in the dispute, and to Wikipedia itself.
+Therefore, an editor who is involved in a significant controversy or dispute with another individual—whether on- or off-wiki—or who is an avowed rival of that individual, should not edit that person's biography or other material about that person, given the potential conflict of interest. More generally, editors who have a strongly negative or positive view of the subject of a biographical article should be especially careful to edit that article neutrally, if they choose to edit it at all.[h]
+
+
+Applicability
+BLP applies to all material about living persons anywhere on Wikipedia, including talk pages, edit summaries, user pages, images, categories, lists, article titles and drafts.
+Non-article space
+Contentious material about living persons that is unsourced or poorly sourced and not related to making content choices should be removed, deleted, or oversighted, as appropriate. When seeking advice about whether to publish something about a living person, be careful not to post so much information on the talk page that the inquiry becomes moot. For example, it would be appropriate to begin a discussion by stating This link has serious allegations about the subject; should we summarize this someplace in the article? The same principle applies to problematic images. Questionable claims already discussed can be removed with a reference to the previous discussion.
+The BLP policy also applies to user and user talk pages. The single exception is that users may make any claim they wish about themselves in their user space, so long as they are not engaged in impersonation, and subject to what Wikipedia is not. However, minors are discouraged from disclosing identifying personal information on their userpages.[i] Although this policy applies to posts about Wikipedians in project space, some leeway is permitted to allow the handling of administrative issues by the community, but administrators are allowed to delete such material if it rises to the level of defamation, or if it constitutes a violation of no personal attacks.
+
+
+Usernames
+Usernames that contain libelous, blatantly false, or contentious statements or material about living persons should be immediately blocked and suppressed from all revisions and logs. This includes usernames that disclose any kind of non-public, private, or personally identifiable information about living persons, regardless of the legitimacy of the information and whether or not the information is correct. Requests for removing such usernames from logs should be reported to the Oversight team for evaluation.
+Images
+Images of living persons should not be used out of context to present a person in a false or disparaging light. This is particularly important for police booking photographs (mugshots), or situations where the subject did not expect to be photographed. Because a police booking photograph can imply that the person depicted was charged with or convicted of a specific crime, a top-quality reliable source with a widely acknowledged reputation for fact-checking and accuracy that links the photograph to the specific incident or crime in question must be cited.
+Images of living persons that have been created by Wikipedians or others may be used only if they have been released under a copyright licence that is compatible with Wikipedia:Image use policy.
+AI-generated images should not be used to depict subjects of BLPs. Marginal cases (such as major AI enhancement or where an AI-generated image of a living person is itself notable) are subject to case-by-case consensus.
+
+
+Categories, lists, and navigation templates
+Category names do not carry disclaimers or modifiers, so the case for each content category must be made clear by the article text and its verifiable reliable sources. Categories regarding religious beliefs (or lack of such) or sexual orientation should not be used unless the subject has publicly self-identified with the belief (or lack of such) or orientation in question, and the subject's beliefs or sexual orientation are relevant to their public life or notability, according to reliable published sources.
+Caution should be used with content categories that suggest a person has a poor reputation (see false light). For example, Category:Criminals and its subcategories should be added only for an incident that is relevant to the person's notability; the incident was published by reliable third-party sources; the subject was convicted; and the conviction was not overturned on appeal. Do not categorize biographies of living people under such contentious topics as racism, sexism, extremism, and the like, since these have the effect of labeling a person as a racist, sexist, or extremist. (See also Wikipedia:Overcategorization § Subjective inclusion criteria and Wikipedia:Overcategorization § Opinion about a question or issue.)
+These principles apply equally to lists, navigation templates, and {{Infobox}} statements (referring to living persons within any Wikipedia page) that are based on religious beliefs (or lack of such) or sexual orientation or suggest that any living person has a poor reputation. This policy does not limit the use of administrative categories for WikiProjects, article clean-up, or other normal editor activities.
+
+
+Recently dead or probably dead
+Anyone born within the past 115 years (on or after 4 August 1910 [update]) is covered by this policy unless a reliable source has confirmed their death. Generally, this policy does not apply to material concerning people who are confirmed dead by reliable sources. The only exception would be for people who have recently died, in which case the policy can extend for an indeterminate period beyond the date of death—six months, one year, two years at the outside. Such extensions would apply particularly to contentious or questionable material about the subject that has implications for their living relatives and friends, such as in the case of a possible suicide or particularly gruesome crime.
+Even without confirmation of death, for the purposes of this policy, anyone born more than 115 years ago is presumed dead unless reliable sources confirm the person to have been living within the past two years. If the date of birth is unknown, editors should use reasonable judgement to infer—from dates of events noted in the article—if it is plausible that the person was born within the last 115 years and is therefore covered by this policy.
+Legal persons and groups
+This policy does not normally apply to material about corporations, companies, or other entities regarded as legal persons, though any such material must be written in accordance with other content policies. The extent to which the BLP policy applies to edits about groups is complex and must be judged on a case-by-case basis. A harmful statement about a small group or organization comes closer to being a BLP problem than a similar statement about a larger group; and when the group is very small, it may be impossible to draw a distinction between the group and the individuals that make up the group. When in doubt, make sure you are using high-quality sources.
+
+
+Maintenance
+Importance
+Wikipedia contains over a million articles about living persons. From both a legal and an ethical standpoint, it is essential that a determined effort be made to eliminate defamatory and other inappropriate material from these articles, but these concerns must be balanced against other concerns, such as allowing articles to show a bias in the subject's favor by removing appropriate material simply because the subject objects to it, or allowing articles about non-notable publicity-seekers to be retained. When in doubt about whether material in a BLP is appropriate, the article should be pared back to a policy-compliant version. Sometimes the use of administrative tools such as page protection and deletion is necessary for the enforcement of this policy, and in extreme cases action by Wikimedia Foundation staff is required.
+Templates
+{{WikiProject banner shell|blp=yes}} may be added to the talk pages of BLPs and other articles that focus on living persons. {{WikiProject banner shell|blp=other}} is suitable for articles containing material on the deceased that also contains material about living persons.
+For articles, {{BLP dispute}} may be used on BLPs needing attention; {{BLP sources}} on BLPs needing better sourcing (an alternative is {{BLP primary sources}}); and {{BLP unreferenced}} for those with no sources at all.
+For editors violating this policy, the following can be used to warn them on their talk pages:
+{{uw-biog1}}
+{{uw-biog2}}
+{{uw-biog3}}
+{{uw-biog4}}
+{{uw-biog4im}}
+{{uw-bioblock}} for when a block is issued
+The template {{BLP removal}} can be used on the talk page of an article to explain why material has been removed under this policy, and under what conditions the material may be replaced.
+
+
+Relationship between the subject, the article, and Wikipedia
+Dealing with edits by the subject of the article
+Subjects sometimes become involved in editing material about themselves, either directly or through a representative. The Arbitration Committee has ruled in favor of showing leniency to BLP subjects who try to fix what they see as errors or unfair material. Editors should make every effort to act with kindness toward the subjects of biographical material when the subjects arrive to express concern.
+Although Wikipedia discourages people from writing about themselves, removal of unsourced or poorly sourced material is acceptable. When a logged-out editor blanks all or part of a BLP, this might be the subject attempting to remove problematic material. Edits like these by subjects should not be treated as vandalism; instead, the subject should be invited to explain their concerns. The Arbitration Committee established the following principle in December 2005:
+Wikipedia:Please do not bite the newcomers, a guideline, advises Wikipedia users to consider the obvious fact that new users of Wikipedia will do things wrong from time to time. For those who either have or might have an article about themselves, there is a temptation—especially if apparently wrong or strongly negative information is included in such an article—to become involved in questions regarding their own article. This can open the door to rather immature behavior and loss of dignity for the new user. It is a violation of don't bite the newbies to strongly criticize users who fall into this trap, rather than see this phenomenon as a new editor mistake.[6]
+
+
+Dealing with articles about yourself
+Wikipedia has editorial policies that will often help to resolve your concern, as well as many users willing to help and a wide range of escalation processes. Very obvious errors can be fixed quickly, including by yourself. But beyond that, post suggestions on the article talk page (see Help:Talk pages), or place {{help me}} on your user talk page. You may also post an explanation of your concern on the biographies of living persons noticeboard and ask that uninvolved editors evaluate the article to make sure it is fairly written and properly sourced.
+If you are an article subject and you find the article about you contains your personal information or potentially libelous statements, contact the oversight team so that they can evaluate the issue and possibly remove it from the page history.
+Please bear in mind that Wikipedia is almost entirely operated by volunteers; impolite or demanding behavior, even if entirely understandable, will often be less effective.
+Legal issues
+Subjects who have legal or other serious concerns about material they find about themselves on a Wikipedia page, whether in a BLP or elsewhere, may contact the volunteer response team (known as VRT). Please e-mail info-en-qwikimedia.org with a link to the article and details of the problem; for more information on how to get an error corrected, see here. It is usually better to ask for help rather than trying to change the material yourself.
+As noted above, individuals involved in a significant legal or other off-wiki dispute with the subject of a biographical article are strongly discouraged from editing that article.
+
+
+How to contact the Wikimedia Foundation
+If you are not satisfied with the response of editors and admins to a concern about biographical material about living persons, you can contact the Wikimedia Foundation directly. See Contact us for details.
+Wikimedia Foundation resolution
+On April 9, 2009, the Wikimedia Foundation's Board of Trustees passed a resolution regarding Wikimedia's handling of material about living persons. It noted that there are problems with some BLPs being overly promotional in tone, being vandalized, and containing errors and smears. The Foundation urges that special attention be paid to neutrality and verifiability regarding living persons; that human dignity and personal privacy be taken into account, especially in articles of ephemeral or marginal interest; and that anyone who has a complaint about how they are described on the project's websites be treated with patience, kindness, and respect.

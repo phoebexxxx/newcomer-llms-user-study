@@ -1,0 +1,125 @@
+Everybody has a point of view. Though 99% of the world may see something exactly the way you do, your view is still just one of many possible views that might be reasonably held. For example, what does it mean to be liberal? Some have said that this political stance means that the government should actively intervene to ensure fairness, while others have stated the opposite, that being liberal means seeking to maximize individual opportunity and minimize government. Can a sensible article on liberalism acknowledge such beliefs? Yes, and this tutorial will tell you how.
+First: Negotiating neutrality with others[edit]
+The first element in negotiating issues of bias with others is to recognize you have a point of view, and to pin-point where it comes from. "It's what everybody I know believes," is a start. But in co-writing with someone who believes differently, it's often important to have some evidence at hand. This includes not only evidence for your view but evidence for how many others hold it and who they are. Information like this enables writers and participants in discussion to come to practical decisions. These include whether one view deserves to go first, whether two deserve equal billing, whether views belong in different articles and, if so, what titles the articles should have.
+
+
+Word ownership[edit]
+A common basis for prolonged NPOV disputes is the belief that one group "owns" a word and has sole authority to define it:
+"The word liberalism was coined by political philosophers. Political philosophers are the experts on liberalism, and none of them alive today believes that liberalism is the same thing as libertarianism."
+In fact, many words have multiple meanings, and it's not just that one person sometimes uses "liberal" to refer to a political movement and sometimes to refer to generous use of an ingredient in a recipe. Sometimes it means that different people mean different things when they say the same word.
+The fact that a right-wing Russian nationalist party is called the Liberal Democratic Party of Russia isn't covered by any senses of the word provided in the dictionary. Neither are the views of the original Liberals, who opposed the clergy and mercantilism. But in an encyclopedia, ideas that a lot of people believe or once believed deserve not only mention but respectful treatment. Many of these problems can be solved through what we call disambiguation.
+At the same time, the fact that you disagree with the way a word is used or defined does not automatically imply that there is a POV problem. You must also ensure that your assertions about alternative uses are both significant and verifiable, using appropriate attribution and citation.
+
+
+Attribution and citation[edit]
+An attribution specifies who stands behind a claim. In this example:
+"According to most Australians, The Beatles are the best rock music group ever [Rock and Roll Survey 1998]"
+the sentence attributes to "most Australians" the claim that the Beatles are the best rock music group ever. But be careful with the exact wording of statistical claims; the Beatles may have topped the survey with less than 50% of the votes, making "most Australians" misleading.
+A citation tells readers where they can look to verify that the attribution is accurate. The underlined section above represents the citation (which can be, for instance, the name of and/or link to a reputable publication containing these data).
+Make only careful use of generic attributions ("Critics say..."). These are called weasel words, because they can make claims look less obscure or less controversial than they are. When a statement requires supporting documentation, be specific in citing the basis for your claim.
+
+
+Neutral language[edit]
+Assertions written in neutral language are closer to being objectively true. One such neutral assertion is this:
+"In 1989, Drs. Stanley Pons and Martin Fleischmann of the University of Utah shocked the world by reporting they had discovered a means to tap energy from nuclear fusion at near to room temperatures."
+Very few scientists believe Pons' and Fleischmann's report was accurate, let alone responsible. However, "[...] shocked the world [...]" is probably more dramatic, and less accurate, than "[...] shocked the scientific community [...]" would have been. It can be difficult to find truly objective wording.
+As a political example, take the status of Jerusalem. The government of Israel considers it to be that nation's capital, but many other governments do not, and have gone so far as to place their embassies elsewhere. Disagreement about what city is the capital of Israel caused heated arguments on Wikipedia. But the facts as stated above were ones that all could agree on. The solution? Stick to the facts.
+When a fact is not common knowledge, or when the information being related is a subjective assessment, like the result of a particular poll, the information should be attributed and cited.
+
+
+Accusations[edit]
+Attribution and citation are especially important for claims against a person. Consider the accusation "X is a child abuser". A good way to handle such a situation might be like this:
+"The boy's mother accused X of sharing his bed with the boy, and called this 'child abuse'."
+This is a better description of the facts, as simply sharing a bed with a child is not what the words "child abuse" convey to most people, even if they might agree that to do so is improper. But if "child abuse" hits the airwaves and becomes news, it should not be omitted. The solution, as with other controversial claims, is to put the accusation in quotes and identify who said it. The wording is particularly sensitive here, so be aware that many accusations are neither wholly true nor entirely baseless. Accusers may have evidence of an offense, but choose hyperbolic words in naming it.
+In cases where legal proceedings are ongoing, be particularly careful. Reporting on what has been said is acceptable, but inevitably during a court case some strong statements will be made one way or the other, and could be misleading if taken out of context. Try to get a balancing statement, as is done for example in reporting this exchange:
+"Y stated that he once saw X with his hand resting on the pants of the boy when the two were playing video games... However, the boy denounced the molestation allegations as 'absolutely ridiculous' and said that nothing inappropriate has happened."
+Where accusations are contested in a reliable source, it is important to include this challenge alongside the accusation, and to cover all sides of any debate in order to ensure the article remains neutral. The challenge should be attributed to the source. Give the facts to the reader to decide for themselves:
+"The boy's mother accused X of sharing his bed with the boy, and called this 'child abuse'. While Joe Blow of the Foo Daily News suggested a financial motive for the accusation, the mother's lawyer has denied this claim."
+It is not neutral to say: "Of course, she's probably lying."
+
+
+Insinuation[edit]
+While hinting or insinuating may feel weak, it is a powerful tool and abuse of it is a common way of introducing bias. Consider the example:
+The minister has been accused of lacking backbone and of being unwilling to use the armed forces to defend our rights. He acknowledged last month that he is left-handed.
+To mention the minister's left-handedness in this context is to imply that it is relevant. As a result, this juxtaposition of otherwise neutral statements has the effect of fostering prejudice, in particular the prejudice that all left-handers are wimps (i.e. also lacking backbone). Insinuations of this sort are guaranteed to prompt complaints. Do not use or tolerate them.
+Bias in attribution: Mind your nuances[edit]
+It's possible to introduce your own bias even while attributing. Take this sentence as an example:
+"Duane Gish said that the Earth and its living creatures were created by God."
+This is a neutral statement as it stands. But what if "said" were replaced with:
+Noted
+Explained
+Pointed out
+Claimed
+Suggested
+All have different connotations, which could introduce bias, depending on context. Here, "noted", "pointed out", and "explained" would be begging the question, saying that the Earth was created by (in this context, probably the Christian) God; "claimed" and "suggested" would strongly imply that it wasn't. In choosing words, imagine how a sentence will sound for someone with an opposing POV. In this particular sentence the religion of the quoted person may be used as a neutral fact. Remember, Wikipedia isn't a battleground; there are other places on the Internet to debate a given subject (and it might be appropriate to link to them from the article). Neutral ways of expressing a statement, such as "said," "wrote," "stated," are the safest.
+For more on terms to watch out for, see Wikipedia:Words to avoid.
+
+
+Space and balance[edit]
+An article can be written in neutral language and yet omit important points of view. Such an article should be considered an NPOV work in progress, not an irredeemable piece of propaganda. Often an author presents one POV because it's the only one that they know well. The remedy is to add to the article — not to subtract from it.
+Different views don't all deserve equal space. Articles need to be interesting to attract and keep the attention of readers. For an entry in an encyclopedia, ideas also need to be important. The amount of space they deserve depends on their importance and how many interesting things can be said about them.
+Information suppression[edit]
+A common way of introducing bias is by one-sided selection of information. Information can be cited that supports one view while some important information that opposes it is omitted or even deleted. Such an article complies with Wikipedia:Verifiability but violates NPOV. A Wikipedia article must comply with all three policies (i.e. Verifiability, NPOV, and No original research) to be considered compliant.
+Some examples of how editors may unwittingly or deliberately present a subject in an unfair way:
+Biased or selective representation of sources, eg:
+Explaining why evidence supports one view, but omitting such explanation in support of alternative views.
+Making one opinion look superior by omitting strong and citable points against it, comparing it instead with low quality arguments for other POVs (strawman tactics).
+Not allowing one view to "speak for itself", or refactoring its "world-view" into the words of its detractors.
+Editing as if one given opinion is "right" and therefore other opinions have little substance:
+Entirely omitting significant citable information in support of a minority view, with the argument that it is claimed to be not credible.
+Ignoring or deleting significant views, research or information from notable sources that would usually be considered credible and verifiable in Wikipedia terms (this could be done on spurious grounds).
+Concealing relevant information about sources or sources' credentials that is needed to fairly judge their value.
+Thus, verifiability, proper citation and neutral phrasing are necessary but not sufficient to ensure NPOV. It is important that the various views and the subject as a whole are presented in a balanced manner and that each is summarized as if by its proponents to their best ability.
+
+
+Expertise[edit]
+On many scientific, technical or social problems, different points of view may be held by different experts. Wikipedia should report all major points of view; however, it should do so in proportion to the credibility of the experts holding the various theses. One must also consider whether a given expert's point of view belongs not in the article at hand, but in a different article (e.g., evolution vs. creationism)
+Coverage should also be roughly in proportion to the number of experts holding each view. Views held by a significant minority should be included, but should not be given as extensive coverage as majority views. To do so would overstate the extent of controversy.
+One measure of a view's importance is the credibility of the experts who hold that view. What makes an expert credible? Factors some people use to define credibility may include:
+The reputation of the expert, the reputation of the tradition within which they work, the reputation of the group or institution for which the expert works
+The venues in which the expert propounds their views (e.g., peer-reviewed academic journals as compared with opinion pieces or self-published outlets)
+Whether the expert uses the common methods of the field or completely different ones
+Whether the expert's disciplinary specialization matches the topic at hand
+Whether the expert has responded to criticisms or has failed to do so
+Whether the expert has reputable supporters of their claims
+An idea's popularity alone does not determine its importance. Sometimes popular ideas are held by people who have not had the opportunity to fully investigate why they believe as they do. After conducting a more thorough investigation, they might undergo a paradigm shift and change their views, or they might discover additional information that strengthens their previously held beliefs. If you are not an expert in a subject yourself, your intuition that an article is biased may not be reliable. Keep an open mind and ask others about the evidence. Keep in mind that certain ideas, while not able to be proved using our current scientific knowledge may indeed be proven using more advanced techniques available to us in the future. Past scientific advances, such as sailing around the world, developing airplanes, and launching rockets, were often doubted by many people before they occurred and eyewitness accounts were disseminated. Some of these doubters were also experts in the scientific and/or religious community.
+
+
+Moral and political points of view[edit]
+On certain topics, there is naturally less "expertise" and scientific thinking, and more "opinion". This is especially the case of topics such as morals or religion, based on faith, as well as politics.
+We should then list all points of view, according to their importance, and, if possible, be precise as to who holds them. There exist some cases where the vast majority of political parties, politicians and journalists hold a certain opinion, while a sizeable minority do not: both views should be stated.
+One common problem with politics is the natural tendency of considering the major political opinions of one's country as "normal", while considering those held in other countries as "abnormal", silly, or misguided. Thus, for instance, an article written from an American point of view may judge that the European fondness for welfare state solutions is misguided, or express this point of view in oblique ways; the same could be true of an article written from a European point of view on justice and firearms in the United States. Writers should thus combat this natural tendency of considering the point of view of one's groups as the "majority" and "natural" point of view, and giving to it more space and more focus.
+Article splitting[edit]
+When an article becomes too long (see Wikipedia:Article size), a split is recommended. Such split can be performed in a biased way, for example by putting everything you don't like in a new article and then giving that article an un-common name, so obfuscating its whereabouts.
+The NPOV way of splitting articles is explained in Wikipedia:Content forking: every main section of the article is reduced in size, keeping to the "space and balance" principle as explained above, and an equal number of sub-pages is created using a technique as explained in Wikipedia:Summary style.
+
+
+The most important lesson[edit]
+More important than being able to write neutrally without thinking about it is being willing and knowing how to work with others toward that goal. Be bold in editing pages that are biased, be bold in asking for help, and do not be alarmed when others edit what you have written.
+Realize you may have a bias you're not aware of, that you might have learned something wrong or that you might be misremembering it. Consider that even when an article has struck everyone who has read it so far as neutral, others arriving with a different bias may still have a good reason to change it. Often even a neutral article can be made even more neutral.
+Regard bias as a problem with the article, not with the people who wrote it. Compromise, don't attack. For users you can't reason with and who seem determined to violate NPOV policy, enlist the help of the Wikipedia mediators. Just never forget to give discussion an honest try. Once they are given a little courtesy and respect, you might be surprised how many Wikipedians turn out to be not so biased after all.
+Things to avoid
+Some Wikipedians, in the name of neutrality, try to avoid making any statements that other people find offensive or objectionable, even if objectively true. This is not the intent of striving for neutrality. Many groups would prefer that certain facts be stated euphemistically, or only in their own terminology, or suppressed outright; such desires need not be deferred to. On the other hand, these terms should be presented, explained and examples given, perhaps with views of other groups of why the term is used as well as the group itself. For example, in Germany the Nazi symbol is banned, people of Hindu religion might find it offensive as it is an important religious symbol for them. It might be explained that the two symbols may look alike but are not symbolizing Hinduism but rather fascism with a different history.
+
+
+Article names[edit]
+For an article name it is not usually possible to include all views on the article name in the article title itself, for example there is:
+Alfred the Great
+There is no way of making that more NPOV by naming the article:
+Alfred the Great according to most people, but not according to some
+The essential guidelines for making article names the most NPOV possible are included in:
+Wikipedia:Naming conflict
+Wikipedia:Naming conventions (common names)
+Wikipedia:Naming conventions (precision)
+Categorization[edit]
+For categorization NPOV cannot necessarily be achieved by adding more categories to the bottom of the article, and that would also end up making the list of categories at the bottom of an article nearly as long as the body of the article itself. (See Wikipedia:Overcategorization.)
+The key recommendation for addressing such POV/NPOV issues for people (while indeed, people articles appear to be the most sensitive to POV/NPOV categorisation disputes):is to :
+try to limit the number of categories to what is most essential about this person, something in the vein of: "give me 4 or 5 words that best characterize this person."
+So, as an example, there is no doubt a "significant minority" would consider Menachem Begin a state terrorist - while, however one turns it, this is not one of the 4 or 5 essential characteristics of this person, a "state terrorists" category will not be found at the bottom of the article of this person.
+
+
+Handling NPOV disputes[edit]
+Handling NPOV disputes has no separate ruleset from what is described in Wikipedia:Dispute resolution
+Template messages that might come in handy when dealing with such issues are most of them listed at Wikipedia:Template messages/Disputes.
+Other standard templates that may help in addressing NPOV-related issues regarding articles can, for example, be found in Wikipedia:Template messages/Cleanup. For categories all available standard templates are listed at Wikipedia:Template messages/Category namespace
+Note that the templates that can be used for NPOV concerns generally suppose that the suspected NPOV problem is explained on the article's or category's talk page. When all NPOV-related issues detailed on the talk page have been handled, the template should be removed from the article or category page. In most cases, however, the least cumbersome way of handling NPOV concerns would be to improve the article or the category description, so that it is no longer POV. If a generalised or blanket criticism of an article is made via a template, then at least one concrete example of the problem, together with how it could be improved, should be given on the Talk page, to help other editors deal with the issue and learn from it.
