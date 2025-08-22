@@ -122,7 +122,7 @@ if group == "Group C" or group =="Group D":
         st.session_state.logs_second = []
     if "count_second" not in st.session_state:
         st.session_state.count_second = 0
-    if "message_second" not in st.session_state:
+    if "messages_second" not in st.session_state:
         st.session_state.messages_second = [{"role": "assistant", "content": initial}]
     log_event(name, "before edit", initial)
 
@@ -430,7 +430,7 @@ if st.session_state.submitted_second:
         downloaded = st.download_button(
             label="📁 Download Interaction Log",
             data=csv_buffer.getvalue(),
-            file_name=f"interaction_log{p_id}.csv",
+            file_name=f"interaction_log{p_id}_2.csv",
             mime="text/csv"
         )
 
