@@ -1,7 +1,6 @@
-# newcomer-learning
 
 streamlit==1.37.1
 openai==1.93.3
-faiss-cpu==1.8.0.post1
-pandas>=2.2
-numpy>=1.26
+faiss-cpu==1.7.4
+pandas==2.2.2
+numpy==1.26.4
