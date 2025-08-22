@@ -270,7 +270,7 @@ else:
         st.session_state.count_second = 0
     if "messages_second" not in st.session_state:
         st.session_state.messages_second = []
-    log_event(name, "before edit", initial)
+    log_event(name, "with baseline", initial)
 
 
     # Initialize OpenAI client
@@ -353,7 +353,7 @@ else:
                 st.warning("Please enter a prompt.")
             else:
                 st.session_state.messages_second.append({"role": "user", "content": user_input})
-                log_event("human", st.session_state.stage_second, user_input) 
+                log_event("human", "with baseline", user_input) 
 
 
                 with st.spinner("Wiki-helper AI is thinking..."):
@@ -367,7 +367,7 @@ else:
 
                         assistant_reply = response.choices[0].message.content
                         st.session_state.messages_second.append({"role": "assistant", "content": assistant_reply})
-                        log_event(name, st.session_state.stage_second, assistant_reply)
+                        log_event(name, "with baseline", assistant_reply)
                         st.session_state.count_second = st.session_state.count_second + 1      # enforce users to have at least 6 interactions (interaction = input + response)
 
                     except Exception as e:
