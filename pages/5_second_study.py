@@ -21,17 +21,9 @@ if not st.session_state.get("neutral_done"):
 st.set_page_config(page_title="Second Session", layout="wide")
 st.title("Wikipedia Editing Task")
 
-# # Streamlit-safe setup
-# os.environ["TRANSFORMERS_NO_ADVISORY_WARNINGS"] = "1"
-# os.environ["HF_HUB_DISABLE_SYMLINKS_WARNING"] = "1"
-
-
-# if "semanticmodel" not in st.session_state:
-#     st.session_state.semanticmodel = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2', device="cpu")
-
 # helper function to log data into a pandas dataframe 
 def log_event(AorH, component, content):
-    st.session_state.logs.append({
+    st.session_state.logs_second.append({
         "AorH": AorH,
         "PID": st.session_state["participant_id"], 
         "group": st.session_state["group"],
@@ -66,9 +58,11 @@ INITIALS = {
     "Group D": groups.initials_scaffolding(),
 }
 
-initial = INITIALS[group]
-
-
+STAGE_PROMPTS = {
+    "before edit": groups.scaffolding_before_task(),
+    "during edit": groups.scaffolding_during_task(),
+    "after edit": groups.scaffolding_after_task()
+}
 
 TASKS = {
     "Group A": groups.task_2(),
@@ -89,11 +83,11 @@ name = NAMES[group]
 p_id = st.session_state.get("participant_id")
 MAIN_SAND = main_sand.main_sand(int(p_id)-1)
 
-if group == "Group A" or group =="Group B":
+if group == "Group C" or group =="Group D":
     # Initialize session state
-    if "stage" not in st.session_state or st.session_state.get("first_load", True):
-        st.session_state.stage = "before edit"
-        st.session_state.first_load = False
+    if "stage_second" not in st.session_state or st.session_state.get("first_load_second", True):
+        st.session_state.stage_second = "before edit"
+        st.session_state.first_load_second = False
 
     # Floating badge (display only)
     st.markdown(
@@ -110,7 +104,7 @@ if group == "Group A" or group =="Group B":
             z-index: 9999;
             font-weight: bold;
         ">
-            🟢 Stage: {st.session_state.stage}
+            🟢 Stage: {st.session_state.stage_second}
         </div>
         """,
         unsafe_allow_html=True
@@ -124,12 +118,12 @@ if group == "Group A" or group =="Group B":
 
 
     # initialize logs, count, messages
-    if "logs" not in st.session_state:
-        st.session_state.logs = []
-    if "count" not in st.session_state:
-        st.session_state.count = 0
-    if "messages" not in st.session_state:
-        st.session_state.messages = [{"role": "assistant", "content": initial}]
+    if "logs_second" not in st.session_state:
+        st.session_state.logs_second = []
+    if "count_second" not in st.session_state:
+        st.session_state.count_second = 0
+    if "message_second" not in st.session_state:
+        st.session_state.messages_second = [{"role": "assistant", "content": initial}]
     log_event(name, "before edit", initial)
 
 
@@ -203,13 +197,13 @@ if group == "Group A" or group =="Group B":
         # unsafe_allow_html=True
         # )
 
-        for message in st.session_state.messages:  # Skip system message
+        for message in st.session_state.messages_second:  # Skip system message
             render_message(message["role"], message["content"])
         
         st.selectbox(
             "Select your editing stage:",
             ["before edit", "during edit", "after edit"],
-            index=["before edit", "during edit", "after edit"].index(st.session_state.stage),
+            index=["before edit", "during edit", "after edit"].index(st.session_state.stage_second),
             key="stage"
         )
 
@@ -220,11 +214,11 @@ if group == "Group A" or group =="Group B":
             if user_input.strip() == "":
                 st.warning("Please enter a prompt.")
             else:
-                st.session_state.messages.append({"role": "user", "content": user_input})
-                log_event("human", st.session_state.stage, user_input) 
+                st.session_state.messages_second.append({"role": "user", "content": user_input})
+                log_event("human", st.session_state.stage_second, user_input) 
 
-                stage_system_prompt = STAGE_PROMPTS.get(st.session_state.stage)
-                log_event(name, st.session_state.stage, stage_system_prompt)
+                stage_system_prompt = STAGE_PROMPTS.get(st.session_state.stage_second)
+                log_event(name, st.session_state.stage_second, stage_system_prompt)
 
                 with st.spinner("Wiki-helper AI is thinking..."):
                     try:
@@ -235,7 +229,7 @@ if group == "Group A" or group =="Group B":
                             context_block = rag.format_context(retrieved)     # tag with source document
                             log_event("AI", "rag", context_block)     # log event
 
-                        history = st.session_state.messages
+                        history = st.session_state.messages_second
 
                         msgs = rag.make_rag_messages(
                             system_prompt=GROUPS[group],
@@ -252,9 +246,9 @@ if group == "Group A" or group =="Group B":
                         )
 
                         assistant_reply = response.choices[0].message.content
-                        st.session_state.messages.append({"role": "assistant", "content": assistant_reply})
-                        log_event(name, st.session_state.stage, assistant_reply)
-                        st.session_state.count = st.session_state.count + 1      # enforce users to have at least 6 interactions (interaction = input + response)
+                        st.session_state.messages_second.append({"role": "assistant", "content": assistant_reply})
+                        log_event(name, st.session_state.stage_second, assistant_reply)
+                        st.session_state.count_second = st.session_state.count_second + 1      # enforce users to have at least 6 interactions (interaction = input + response)
 
                     except Exception as e:
                         st.error(f"An error occurred: {e}")
@@ -270,12 +264,12 @@ if group == "Group A" or group =="Group B":
 else:
 
     # initialize logs, count, messages
-    if "logs" not in st.session_state:
-        st.session_state.logs = []
-    if "count" not in st.session_state:
-        st.session_state.count = 0
-    if "messages" not in st.session_state:
-        st.session_state.messages = []
+    if "logs_second" not in st.session_state:
+        st.session_state.logs_second = []
+    if "count_second" not in st.session_state:
+        st.session_state.count_second = 0
+    if "messages_second" not in st.session_state:
+        st.session_state.messages_second = []
     log_event(name, "before edit", initial)
 
 
@@ -349,7 +343,7 @@ else:
         # unsafe_allow_html=True
         # )
 
-        for message in st.session_state.messages:  # Skip system message
+        for message in st.session_state.messages_second:  # Skip system message
             render_message(message["role"], message["content"])
         
         user_input = st.text_area("Enter your question or request:", key="user_input", height=100)
@@ -358,8 +352,8 @@ else:
             if user_input.strip() == "":
                 st.warning("Please enter a prompt.")
             else:
-                st.session_state.messages.append({"role": "user", "content": user_input})
-                log_event("human", st.session_state.stage, user_input) 
+                st.session_state.messages_second.append({"role": "user", "content": user_input})
+                log_event("human", st.session_state.stage_second, user_input) 
 
 
                 with st.spinner("Wiki-helper AI is thinking..."):
@@ -367,14 +361,14 @@ else:
 
                         response = client.chat.completions.create(
                             model="gpt-4o-mini",
-                            messages=st.session_state.messages,
+                            messages=st.session_state.messages_second,
                         
                         )
 
                         assistant_reply = response.choices[0].message.content
-                        st.session_state.messages.append({"role": "assistant", "content": assistant_reply})
-                        log_event(name, st.session_state.stage, assistant_reply)
-                        st.session_state.count = st.session_state.count + 1      # enforce users to have at least 6 interactions (interaction = input + response)
+                        st.session_state.messages_second.append({"role": "assistant", "content": assistant_reply})
+                        log_event(name, st.session_state.stage_second, assistant_reply)
+                        st.session_state.count_second = st.session_state.count_second + 1      # enforce users to have at least 6 interactions (interaction = input + response)
 
                     except Exception as e:
                         st.error(f"An error occurred: {e}")
@@ -403,33 +397,33 @@ st.markdown(
 
 
 # Session state setup
-if "submitted" not in st.session_state:
-    st.session_state.submitted = False
-if "can_continue" not in st.session_state:
-    st.session_state.can_continue = False
+if "submitted_second" not in st.session_state:
+    st.session_state.submitted_second = False
+if "can_continue_second" not in st.session_state:
+    st.session_state.can_continue_second = False
 
 # Submit button (stage 1)
-if st.button("Submit Draft") and not st.session_state.submitted:
-    if st.session_state.get("count") >= 5:
-        st.session_state.submitted = True
+if st.button("Submit Draft") and not st.session_state.submitted_second:
+    if st.session_state.get("count_second") >= 5:
+        st.session_state.submitted_second = True
     else:
         st.markdown(
             "<div style='text-align: center; color: #856404; background-color: #fff3cd; "
             "padding: 1em; border-radius: 5px; border: 1px solid #ffeeba;'>"
-            f"Please have at least {5 - st.session_state.count} more interactions with AI agent."
+            f"Please have at least {5 - st.session_state.count_second} more interactions with AI agent."
             "</div>",
             unsafe_allow_html=True
         )
 
 # Step 2: show download if submitted
-if st.session_state.submitted:
+if st.session_state.submitted_second:
     st.markdown("""
     Before proceeding, please make sure to download the logs from the following button,
     and send them to the researcher at the end of the study. Feel free to keep a copy with you as well.
     """)
 
-    if "logs" in st.session_state and st.session_state.logs:
-        df = pd.DataFrame(st.session_state.logs)
+    if "logs_second" in st.session_state and st.session_state.logs_second:
+        df = pd.DataFrame(st.session_state.logs_second)
         csv_buffer = io.StringIO()
         df.to_csv(csv_buffer, index=False)
 
@@ -442,12 +436,12 @@ if st.session_state.submitted:
 
         # When download button is clicked, allow continuing
         if downloaded:
-            st.session_state.can_continue = True
+            st.session_state.can_continue_second = True
     else:
         st.info("No interaction logs found.")
 
 # Step 3: Continue button
-if st.session_state.can_continue:
+if st.session_state.can_continue_second:
     if st.button("✅ Continue to Survey"):
-        st.session_state.move_on = True
-        st.switch_page("pages/3_first_survey.py")
+        st.session_state.move_on_2 = True
+        st.switch_page("pages/6_second_survey.py")
